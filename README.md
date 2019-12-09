@@ -1,6 +1,6 @@
 # sprint-boot-app
 API REST
-Aplicacion hecha con Spring Boot y H2.
+hecha con Spring Boot y H2.
 
 Para ejecutar la aplicación:
 # Windows y Linux
