@@ -15,4 +15,4 @@ Ejemplo de formato JSON para cargar a base de datos.
 
 ![alt text](https://66.media.tumblr.com/e286134e53217fd51331e9306bbc668b/ddaf45a7655ee3e0-10/s500x750/2ab7e7f9a6efe24180ca4f593d405661438c9275.png)
 
-Enviar body por método POST a la ruta "/admin/load"
+Enviar body por método POST a la ruta "/admin/load" para cargar datos inicialmente a la base de datos.
